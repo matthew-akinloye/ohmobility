@@ -1606,11 +1606,8 @@
 }
 
 .overlap-5 {
-  position: absolute;
   width: 703px;
   height: 777px;
-  top: 1954px;
-  left: 44px;
 }
 
 .overlap-group-wrapper {
@@ -1722,11 +1719,9 @@
 }
 
 .overlap-7 {
-  position: absolute;
   width: 702px;
   height: 777px;
-  top: 1135px;
-  left: 44px;
+
 }
 
 .group-7 {
@@ -1988,11 +1983,8 @@
 }
 
 .overlap-9 {
-  position: absolute;
   width: 702px;
   height: 777px;
-  top: 1954px;
-  left: 772px;
 }
 
 .overlap-10 {
@@ -2072,11 +2064,8 @@
 }
 
 .overlap-11 {
-  position: absolute;
   width: 701px;
   height: 777px;
-  top: 1135px;
-  left: 772px;
   border-radius: 30px;
   background-image: url(./img/mask-group-1.png);
   background-size: 100% 100%;
