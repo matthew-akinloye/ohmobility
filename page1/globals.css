@@ -5,19 +5,23 @@
   box-sizing: border-box;
 }
 
+body{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  
+}
+
 :root {
-  /* fonts */
   --font-abeezee: ABeeZee;
   --font-abel: Abel;
-
-  /* Colors */
   --color-darkorchid: #8000ae;
 
   --font-size-102xl: 121px;
     
   --color-white: #fff;
 }
-/* a blue color as a generic focus style */
+
 button:focus-visible {
   outline: 2px solid #4a90e2 !important;
   outline: -webkit-focus-ring-color auto 5px !important;

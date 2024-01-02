@@ -1,30 +1,3 @@
-.home {
-  background-color: #ffffff;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-}
-
-
-
-/* .overlap {
-  position: absolute;
-  width: 1662px;
-  height: 1073px;
-  top: 0;
-  left: -68px;
-}
-
-.rectangle {
-  position: absolute;
-  width: 100%;
-  height: 929px;
-  top: 0;
-  left: 0;
-  background-color: #d9d9d9;
-} */
-
 .slide {
   width: 100%;
   height: 80vh;
@@ -782,7 +755,7 @@
 
 .get-yourself-the-OH {
   position: absolute;
-  top: 65%;
+  top: 68%;
   left: 6%;
   transform: translate(0, -50%);
   font-family: "Abel", Helvetica;
@@ -959,7 +932,7 @@
 
 @media (max-width: 768px) {
 
-  
+
 
 
   /* .cbaeaa6dcfb0d221e966536164b5ce-icon styles */
@@ -1238,16 +1211,16 @@
     align-items: center;
   }
 
-.group-wrapper {
-  width: 90vw;
-  height: 135px;
-  margin: 10px;
-  background-color: #ffffff;
-  border-radius: 20px;
-  border: 0.5px solid;
-  border-color: #7f00ae;
-  box-shadow: 0px 11px 21.9px #0000001f;
-}
+  .group-wrapper {
+    width: 90vw;
+    height: 135px;
+    margin: 10px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    border: 0.5px solid;
+    border-color: #7f00ae;
+    box-shadow: 0px 11px 21.9px #0000001f;
+  }
 }
 
 
@@ -1403,56 +1376,56 @@
     box-shadow: 0px 11px 21.9px #0000001f;
   }
 
-    .text-wrapper-4 {
-      position: absolute;
-      width: 100%;
-      /* Adjusted width for better responsiveness */
-      top: 5px;
-      left: 0;
-      text-align: center;
-      /* Centered text */
-      font-family: "ABeeZee", Helvetica;
-      font-style: italic;
-      color: #7f00ae;
-      font-size: 20px;
-      letter-spacing: -0.23px;
-      line-height: 24.7px;
-      font-weight: 400;
-    }
+  .text-wrapper-4 {
+    position: absolute;
+    width: 100%;
+    /* Adjusted width for better responsiveness */
+    top: 5px;
+    left: 0;
+    text-align: center;
+    /* Centered text */
+    font-family: "ABeeZee", Helvetica;
+    font-style: italic;
+    color: #7f00ae;
+    font-size: 20px;
+    letter-spacing: -0.23px;
+    line-height: 24.7px;
+    font-weight: 400;
+  }
 
-        .text-wrapper-3 {
-          position: absolute;
-          width: 100%;
-          /* Adjusted width for better responsiveness */
-          top: 0;
-          left: 0;
-          text-align: center;
-          /* Centered text */
-          font-family: "ABeeZee", Helvetica;
-          font-weight: 400;
-          font-style: italic;
-          color: #7f00ae;
-          font-size: 20px;
-          letter-spacing: -0.23px;
-          line-height: 24.7px;
-        }
+  .text-wrapper-3 {
+    position: absolute;
+    width: 100%;
+    /* Adjusted width for better responsiveness */
+    top: 0;
+    left: 0;
+    text-align: center;
+    /* Centered text */
+    font-family: "ABeeZee", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #7f00ae;
+    font-size: 20px;
+    letter-spacing: -0.23px;
+    line-height: 24.7px;
+  }
 
-        .text-wrapper-2 {
-          position: absolute;
-          width: 100%;
-          /* Adjusted width for better responsiveness */
-          top: 0;
-          left: 0;
-          text-align: center;
-          /* Centered text */
-          font-family: "ABeeZee", Helvetica;
-          font-weight: 400;
-          font-style: italic;
-          color: #7f00ae;
-          font-size: 20px;
-          letter-spacing: -0.23px;
-          line-height: 24.7px;
-        }
+  .text-wrapper-2 {
+    position: absolute;
+    width: 100%;
+    /* Adjusted width for better responsiveness */
+    top: 0;
+    left: 0;
+    text-align: center;
+    /* Centered text */
+    font-family: "ABeeZee", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #7f00ae;
+    font-size: 20px;
+    letter-spacing: -0.23px;
+    line-height: 24.7px;
+  }
 }
 
 .OH-mobility-2 {
@@ -1466,10 +1439,6 @@
 
 .overlap-3 {
   position: absolute;
-  width: 1429px;
-  height: 587px;
-  top: 2774px;
-  left: 42px;
   background-color: #000000;
   border-radius: 30px;
   background-image: url(./img/mask-group.png);
@@ -1519,19 +1488,13 @@
   left: 226px;
 }
 
-.text-wrapper-6 {
-  position: absolute;
-  width: 21px;
-  top: 0;
-  left: 196px;
-  font-family: "Abel", Helvetica;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 34px;
-  text-align: center;
-  letter-spacing: -0.34px;
-  line-height: normal;
-}
+
+
+
+
+
+
+
 
 .OH-mobility-3 {
   position: absolute;
